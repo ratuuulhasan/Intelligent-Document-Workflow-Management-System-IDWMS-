@@ -110,7 +110,7 @@ IDWMS/
 
 ### Clone the project
 
-git clone https://github.com/yourusername/enterprise-idwms-v2.git
+git clone https://github.com/ratuuulhasan/enterprise-idwms-v2.git
 
 cd enterprise-idwms-v2
 
